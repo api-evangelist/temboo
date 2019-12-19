@@ -1,0 +1,72 @@
+{
+    "name": "Temboo",
+    "description": "The software toolkit that makes everyone stand taller. Tools for digital transformation, empowering everyone to innovate with IoT, APIs, and emerging tech.",
+    "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/57-temboo.jpg",
+    "tags": [
+        "api lifeycle",
+        "automation",
+        "have api",
+        "ipaas",
+        "programming",
+        "scripts"
+    ],
+    "created": "2019-12-19",
+    "modified": "2019-12-19",
+    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/temboo\/master\/apis.json",
+    "specificationVersion": "0.14",
+    "apis": [
+        {
+            "name": "Temboo",
+            "description": null,
+            "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/57-temboo.jpg",
+            "humanURL": "https:\/\/temboo.com",
+            "baseURL": "",
+            "tags": [],
+            "properties": [
+                {
+                    "type": "x-openapi",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/temboo-openapi.json"
+                }
+            ]
+        }
+    ],
+    "include": [],
+    "x-common": [
+        {
+            "type": "Blog",
+            "url": "http:\/\/blog.temboo.com\/"
+        },
+        {
+            "type": "Blog RSS",
+            "url": "http:\/\/blog.temboo.com\/rss"
+        },
+        {
+            "type": "Crunchbase",
+            "url": "https:\/\/crunchbase.com\/organization\/temboo"
+        },
+        {
+            "type": "Crunchbase",
+            "url": "http:\/\/www.crunchbase.com\/company\/temboo"
+        },
+        {
+            "type": "Email",
+            "url": "privacy@temboo.com"
+        },
+        {
+            "type": "Github",
+            "url": "https:\/\/github.com\/temboo"
+        },
+        {
+            "type": "Twitter",
+            "url": "https:\/\/twitter.com\/temboo"
+        },
+        {
+            "type": "Website",
+            "url": "https:\/\/www.temboo.com\/"
+        },
+        {
+            "type": "Website",
+            "url": "https:\/\/temboo.com"
+        }
+    ]
+}
